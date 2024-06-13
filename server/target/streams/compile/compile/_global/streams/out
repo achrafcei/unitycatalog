@@ -1,0 +1,2 @@
+[0m[[0m[33mwarn[0m] [0m[0m/mnt/d/Workspaces/Personal/forks/unitycatalog/server/src/main/java/io/unitycatalog/server/utils/RESTObjectMapper.java:45:1: com.fasterxml.jackson.databind.PropertyNamingStrategy.KebabCaseStrategy in com.fasterxml.jackson.databind.PropertyNamingStrategy has been deprecated[0m
+[0m[[0m[33mwarn[0m] [0m[0mPropertyNamingStrategy.KebabCaseStrategy[0m

@@ -1,0 +1,30 @@
+[0m[[0m[0mdebug[0m] [0m[0mCreated transactional ClassFileManager with tempDir = /mnt/d/Workspaces/Personal/forks/unitycatalog/examples/cli/target/classes.bak[0m
+[0m[[0m[0mdebug[0m] [0m[0mAbout to delete class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mWe backup class files:[0m
+[0m[[0m[0mdebug[0m] [0m[0mRegistering generated classes:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$1$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ColumnVectorUtils$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeltaKernelReadUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$CliOptions.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CatalogCli.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliParams.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$1$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliException.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PythonInvoker.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$1$4.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$1$5.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ColumnVectorUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	FunctionCli.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$3.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ColumnVectorUtils$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	VolumeCli.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeltaKernelWriteUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$1$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CliUtils$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	DeltaKernelUtils.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	TableCli.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UnityCatalogCli.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	SchemaCli.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mRemoving the temporary directory used for backing up class files: /mnt/d/Workspaces/Personal/forks/unitycatalog/examples/cli/target/classes.bak[0m
