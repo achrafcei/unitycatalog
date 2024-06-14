@@ -26,7 +26,19 @@ You have to ensure that you local environment has the following:
 - Clone this repository.
 - Ensure the `JAVA_HOME` environment variable your terminal is configured to point to JDK11+.
 - Compile the project using `build/sbt package`
-
+### Run the UC Server with Docker
+To build and run the UC server using Docker, follow these steps:
+- Build the Docker Image
+In the root directory of the cloned repository, run the following command to build the Docker image:
+```
+docker build -t unity-catalog .
+```
+- Run the Docker Container
+Once the Docker image is built, run the Docker container, exposing port 8080:
+```
+docker run -p 8080:8080 unity-catalog
+```
+For the rest of the steps, continue in a different terminal.
 ### Run the UC Server
 In a terminal, in the cloned repository root directory, start the UC server.
 
